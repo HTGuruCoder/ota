@@ -1,9 +1,10 @@
-rooted-graphene OTA
-===
+> ⚠️ Note that no new OTAs are published on this URL.
 
-See [rooted-graphene](https://github.com/schnatterer/rooted-graphene/) for more details.
+They moved to [their own GitHub organization](https://rooted-graphene.github.io/ota/).
 
-This repo executes the builds for the actual OTAs.
+See [announcement](https://github.com/schnatterer/rooted-graphene/blob/81e4bda/README.md#2025032500) for details.
 
-You can find the OTA server URLs here:  
-https://rooted-graphene.github.io/ota/
+For historical reasons, you can find the last versions of these flavors here:
+
+* [magisk](magisk)
+* [rootless](rootless)
